@@ -1,3 +1,7 @@
+**需要完整代码可以加qq  931708230 或者加微信 ynwwxid**
+
+**需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
+
 ## 快递代拿系统
 
 > 该项目基于[[express-ssm]](https://github.com/ynwynw/express-ssm) 项目全面升级，使用当前最为流行的 SpringBoot 框架，相关技术栈全面更新！是您深入学习 SpringBoot 开发的最佳实践！
@@ -23,35 +27,37 @@
 
 当您运行初始脚本后，默认存在以下用户，便于测试：
 登录地址 ：http://localhost:8110/
-|登录名|密码|用户角色|
-|:----:|:---:|:-----:|
-|user1|123|普通用户|
-|user2|123|普通用户|
-|courier1|123|配送用户|
-|admin1|123|管理员|
+
+|  登录名  | 密码 | 用户角色 |
+| :------: | :--: | :------: |
+|  user1   | 123  | 普通用户 |
+|  user2   | 123  | 普通用户 |
+| courier1 | 123  | 配送用户 |
+|  admin1  | 123  |  管理员  |
 
 ### 项目运行
-![contents](./picture/picture1.png)
 
-![contents](./picture/picture2.png)
+![contents](F:\毕业设计\快递系统\express-master\picture\picture1.png)
 
-![contents](./picture/picture3.png)
+![contents](F:\毕业设计\快递系统\express-master\picture\picture2.png)
 
-![contents](./picture/picture4.png)
+![contents](F:\毕业设计\快递系统\express-master\picture\picture3.png)
 
-![contents](./picture/picture5.png)
+![contents](F:\毕业设计\快递系统\express-master\picture\picture4.png)
 
-![contents](./picture/picture6.png)
+![contents](F:\毕业设计\快递系统\express-master\picture\picture5.png)
 
-![contents](./picture/picture7.png)
+![contents](F:\毕业设计\快递系统\express-master\picture\picture6.png)
 
-![contents](./picture/picture8.png)
+![contents](F:\毕业设计\快递系统\express-master\picture\picture7.png)
 
-![contents](./picture/picture9.png)
+![contents](F:\毕业设计\快递系统\express-master\picture\picture8.png)
 
-![contents](./picture/picture10.png)
+![contents](F:\毕业设计\快递系统\express-master\picture\picture9.png)
 
-![contents](./picture/picture11.png)
+![contents](F:\毕业设计\快递系统\express-master\picture\picture10.png)
+
+![contents](F:\毕业设计\快递系统\express-master\picture\picture11.png)
 
 #### 必读
 
@@ -71,18 +77,18 @@
 
 2. 创建数据库名为 `express`，数据库编码采用 `utf8mb4`，排序规则为 `utf8mb4_general_ci`
 
-    ```
-    CREATE DATABASE IF NOT EXISTS express default charset utf8mb4 COLLATE utf8mb4_general_ci;
-    ```
+   ```
+   CREATE DATABASE IF NOT EXISTS express default charset utf8mb4 COLLATE utf8mb4_general_ci;
+   ```
 
 3. 导入项目中 `/src/main/resources/db/express.sql` 到 `express`库。
 
-    **注：不要使用 Navicat 等图形化导入工具（会导致导入失败），请使用 source 命令！！**
+   **注：不要使用 Navicat 等图形化导入工具（会导致导入失败），请使用 source 命令！！**
 
-    ```powershell
-    use express; # 选择数据库
-    source /your/path/express.sql; # Source 导入
-    ```
+   ```powershell
+   use express; # 选择数据库
+   source /your/path/express.sql; # Source 导入
+   ```
 
 4. 编辑 `application-dev.yaml` 文件，修改数据库连接信息。
 
@@ -214,9 +220,12 @@ baidu:
     accept-score: 90
 ```
 
-### 疑问解答
+1. 基础环境 :IDEA，maven3.6，JDK 1.8 ， Mysql 5.7
 
-1. 请您仔细阅读 **项目运行** 章节，**确认已经仔细阅读情况下**，仍存在疑问的。
-2. 请提 issue，如需要添加附件、程序等其他 issue 无法较好解决的疑问。
-3. 请发送到邮件：。
-4. **如有疑问，请优先提 Issue，既能帮助后来者，也避免邮件的不及时回复。**
+   ### 源码+数据库脚本 
+
+   所有项目以及源代码本人均调试运行无问题 可支持远程调试运行
+
+   **需要完整代码可以加qq  931708230 或者加微信 ynwwxid**
+
+   **需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
