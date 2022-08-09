@@ -39,25 +39,25 @@
 
 ![contents](./picture/picture1.png)
 
-![contents](F:\毕业设计\快递系统\express-master\picture\picture2.png)
+![contents](./picture/picture2.png)
 
-![contents](F:\毕业设计\快递系统\express-master\picture\picture3.png)
+![contents](./picture/picture3.png)
 
-![contents](F:\毕业设计\快递系统\express-master\picture\picture4.png)
+![contents](./picture/picture4.png)
 
-![contents](F:\毕业设计\快递系统\express-master\picture\picture5.png)
+![contents](./picture/picture5.png)
 
-![contents](F:\毕业设计\快递系统\express-master\picture\picture6.png)
+![contents](./picture/picture6.png)
 
-![contents](F:\毕业设计\快递系统\express-master\picture\picture7.png)
+![contents](./picture/picture7.png)
 
-![contents](F:\毕业设计\快递系统\express-master\picture\picture8.png)
+![contents](./picture/picture8.png)
 
-![contents](F:\毕业设计\快递系统\express-master\picture\picture9.png)
+![contents](./picture/picture9.png)
 
-![contents](F:\毕业设计\快递系统\express-master\picture\picture10.png)
+![contents](./picture/picture10.png)
 
-![contents](F:\毕业设计\快递系统\express-master\picture\picture11.png)
+![contents](./picture/picture11.png)
 
 #### 必读
 
