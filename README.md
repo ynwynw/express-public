@@ -135,7 +135,7 @@ alipay:
 
 例如，当你处于本地启动，端口号为 8080 时，`notify-url` 和 `return-url` 保持不变，可以接受到同步回调，但是无法接收异步回调。
 
-> 详细流程请参考文章：[Java Web中接入支付宝支付](<https://blog.csdn.net/yuanlaijike/article/details/80575513>)
+> 详细流程请参考文章：[Java Web中接入支付宝支付](<>)
 
 #### QQ 登录【默认已配置，可跳过】
 
@@ -166,7 +166,7 @@ third-login:
     app-key: # APP_KEY
 ```
 
-> 详细流程请参考文章：[Web三方登录实现（基于OAuth2.0，包含Github和QQ登录，附源码）](<https://blog.csdn.net/yuanlaijike/article/details/80413181>)
+> 详细流程请参考文章：[Web三方登录实现（基于OAuth2.0，包含Github和QQ登录，附源码）](<>)
 
 #### 短信登录【可选】
 
