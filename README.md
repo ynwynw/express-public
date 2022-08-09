@@ -37,7 +37,7 @@
 
 ### 项目运行
 
-![contents](F:\毕业设计\快递系统\express-master\picture\picture1.png)
+![contents](./picture/picture1.png)
 
 ![contents](F:\毕业设计\快递系统\express-master\picture\picture2.png)
 
